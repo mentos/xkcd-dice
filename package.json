@@ -1,0 +1,27 @@
+{
+  "name": "xkcd-dice",
+  "version": "1.0.0",
+  "description": "xkcd's implementation for random number generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mentos/xkcd-dice.git"
+  },
+  "keywords": [
+    "dice",
+    "xkcd",
+    "random",
+    "number",
+    "1337"
+  ],
+  "author": "Ioannis Tziligkakis",
+  "license": "Unlicense",
+  "homepage": "https://github.com/mentos/xkcd-dice",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
